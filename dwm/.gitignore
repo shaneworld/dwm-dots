@@ -1,0 +1,24 @@
+# Ignore everything
+/*
+!.gitignore
+!.gitmodules
+
+# Except for the files and folders we want to track
+!modules/
+!scripts/
+!screenshots/
+!README.md
+!config.def.h
+!config.mk
+!drw.c
+!drw.h
+!dwm.1
+!dwm.c
+!dwm.png
+!LICENSE
+!Makefile
+!movestack.c
+!transistent.c
+!util.c
+!util.h
+!dwmi
